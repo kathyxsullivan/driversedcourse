@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="com.H5PAuthor.DriversEducation.b747c1f8-bb20-496c-bd21-5897847fb7c5" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="H5P_Author">
+    <organization identifier="H5P_Author">
+      <title>Drivers Education</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>Drivers Education</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="SCORM_API_wrapper.js"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/image-2rRGRSWC-U9dsZ6Tp-iicO_xEW.png"/>
+      <file href="images/image-51NQEZer-9UpOBQb5-twdL-e2u-TrpvlIA0-l91TPat2-HZQgjkVs-vR9GZ2Rd-9Q9VgD7V-dk7yWiO5.jpeg"/>
+      <file href="images/image-5wKuYhrx-gu24SMNC-u_LQnF3Z-ypqrAcwE-uDiuRtAl-4u7b7kCZ-O0BxH3J9-aiiuRoHc-h1fJ6A74.jpeg"/>
+      <file href="images/image-IHWo4u2e-5an6t-yL-J1hEIS1o-ep5zmPYq-UZhRaJ1P-2UO2XxSf-x8xPse-O-lhB7rosV-jkYuIAQW.png"/>
+      <file href="images/image-JYwd1ZoB-4Gqqunuf-HG58Fv4y-2haARGeG-g0EneSm2-8xXUGnaA-zSxAW4RA-9UbuXf0T-bh2tZyrj.jpg"/>
+      <file href="images/image-Nt7ZNqvo-gGifCsxe-r7SxGz_2.jpeg"/>
+      <file href="images/image-QPUGTX2S-WSrCu9UE-t9Jwb8V9.png"/>
+      <file href="images/image-V2NYng5L-qT6cpmu4-W7pr_el--fxURoYCA-8PkxRKg1-HOIVqTXJ-yIjGebZh-33DvOscM-WDHcf9Q0.jpeg"/>
+      <file href="images/image-_zwKB7Rv-qVUBwmFS-ZBsyBw8A.png"/>
+      <file href="images/image-csI5_3DM-WDLSjvuB-qX-k8lEC.png"/>
+      <file href="images/image-dw2_F6j6-AYhXcOIO-nsWpAnqu.png"/>
+      <file href="images/image-eC1377fm-9soG1eGQ-nLrg8v83.png"/>
+      <file href="images/image-lTJxVa9n-Ka1Tht9o-5jCoAqvw.png"/>
+      <file href="images/image-ofcRuyRI-5z9yx5N--6J0kGukL-4INn406V-wRMw8Hrb-MSCrIrbd-wG_4r44n-H5JE3NkH-Z_EbKW1E.jpeg"/>
+      <file href="images/image-q000-lnf-jvH1VyZ9-R4rPAOiu.png"/>
+      <file href="index.html"/>
+      <file href="videos/video-EkZY27jV-zqmDQca1-bPmzyqQB-W8BLeI88-KN69miFP-YE90pu4H-UFbZzl4o-8TmPH2X6.mp4"/>
+      <file href="videos/video-hL9-a0cm-kzDfHaq5-Dap8ywvJ-nWN58BuV-cRg-2RqJ-4J5q-QJT-yMjkdxnE-1cmxl6K2.mp4"/>
+    </resource>
+  </resources>
+</manifest>
